@@ -1,0 +1,7 @@
+digraph G {
+_ [label="<-> [2]"]
+_ -> _l [label=""]
+_ -> _r [label=""]
+_l [label="T"]
+_r [label="T"]
+}

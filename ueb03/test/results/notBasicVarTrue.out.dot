@@ -1,0 +1,5 @@
+digraph G {
+_ [label="! [1]"]
+_ -> __ [label=""]
+__ [label="t"]
+}
